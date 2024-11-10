@@ -18,26 +18,26 @@ The dataset was pre-processed to handle missing values and encode any categorica
 **Models Used**
 Four machine learning models were implemented and tested:
 
-**Linear Regression
+1. Linear Regression
 
-Polynomial Regression
+2. Polynomial Regression
 
-Support Vector Regression (SVR)
+3. Support Vector Regression (SVR)
 
-Decision Tree Regression
+4. Decision Tree Regression
 
 Each model was evaluated based on its predictive performance on the AQI values.
 
 **Evaluation Metrics**
 To evaluate each model’s performance, we calculated the following error metrics:
 
-**R² Score**: Indicates the proportion of variance explained by the model. Higher values indicate better model performance.
+1. **R² Score**: Indicates the proportion of variance explained by the model. Higher values indicate better model performance.
 
-**Root Mean Squared Error (RMSE):** Measures the average magnitude of error, with higher sensitivity to large errors.
+2. **Root Mean Squared Error (RMSE):** Measures the average magnitude of error, with higher sensitivity to large errors.
 
-**Mean Absolute Error (MAE):** Provides the average absolute difference between predictions and actual values.
+3. **Mean Absolute Error (MAE):** Provides the average absolute difference between predictions and actual values.
 
-**Mean Squared Log Error (MSLE):** Captures the relative differences between predicted and actual values, which is useful for data with large range differences.
+4. **Mean Squared Log Error (MSLE):** Captures the relative differences between predicted and actual values, which is useful for data with large range differences.
 
 **Results**
 The following table summarizes the performance of each model based on the chosen metrics:
