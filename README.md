@@ -34,10 +34,11 @@ To evaluate each model’s performance, we calculated the following error metric
 
 **Results**
 The following table summarizes the performance of each model based on the chosen metrics:
-
 ![Screenshot 2024-11-10 155031](https://github.com/user-attachments/assets/d516ed9c-1343-44cd-ba65-a9f15966e400)
 
 REGRESSION BETWEEN ACTUAL AQI AND PREDICTED AQI USING DIFFERENT MACHINE LEARNING MODELS ARE SHOWNS BELOW:
+
+
 
 
 
