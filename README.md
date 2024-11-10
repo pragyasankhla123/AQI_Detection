@@ -19,17 +19,24 @@ The dataset was pre-processed to handle missing values and encode any categorica
 Four machine learning models were implemented and tested:
 
 **Linear Regression
+
 Polynomial Regression
+
 Support Vector Regression (SVR)
-Decision Tree Regression**
+
+Decision Tree Regression
+
 Each model was evaluated based on its predictive performance on the AQI values.
 
 **Evaluation Metrics**
 To evaluate each model’s performance, we calculated the following error metrics:
 
 **R² Score**: Indicates the proportion of variance explained by the model. Higher values indicate better model performance.
+
 **Root Mean Squared Error (RMSE):** Measures the average magnitude of error, with higher sensitivity to large errors.
+
 **Mean Absolute Error (MAE):** Provides the average absolute difference between predictions and actual values.
+
 **Mean Squared Log Error (MSLE):** Captures the relative differences between predicted and actual values, which is useful for data with large range differences.
 
 **Results**
