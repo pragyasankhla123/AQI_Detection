@@ -39,6 +39,13 @@ The following table summarizes the performance of each model based on the chosen
 REGRESSION BETWEEN ACTUAL AQI AND PREDICTED AQI USING DIFFERENT MACHINE LEARNING MODELS ARE SHOWNS BELOW:
 
 
+![LR](https://github.com/user-attachments/assets/23fd15be-00b0-460f-a898-fb35b3d7c045)
+![PR](https://github.com/user-attachments/assets/a021d438-50d9-459e-b98d-9ba753d95871)
+![DT](https://github.com/user-attachments/assets/5cf8b9ca-c9d0-4e57-bb1f-36ce156aa1da)
+![SVR](https://github.com/user-attachments/assets/921b9d79-e554-4f97-94ae-aee1063ab677)
+
+
+
 
 
 
