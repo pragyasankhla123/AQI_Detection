@@ -12,7 +12,9 @@ The dataset used for training includes air quality measurements from various loc
 
 **Features**
 Pollutants: PM2.5, PM10, NO2, NH3, SO2, CO, O3
+
 Target: AQI (Air Quality Index)
+
 The dataset was pre-processed to handle missing values and encode any categorical data.
 
 **Models Used**
