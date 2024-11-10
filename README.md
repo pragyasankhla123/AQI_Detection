@@ -8,7 +8,7 @@ Train different machine learning models to accurately predict AQI.
 Compare models based on multiple error metrics to identify the best performing model.
 Use these models to build a robust prediction tool for real-time air quality monitoring.
 
-Dataset
+**Dataset**
 The dataset used for training includes air quality measurements from various locations and times, featuring pollutant concentrations and corresponding AQI values.
 
 **Features**
